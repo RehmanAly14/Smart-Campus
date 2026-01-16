@@ -69,62 +69,6 @@ PHP 7.4 or higher
 
 MySQL 5.7 or higher
 
-Web browser (Chrome, Firefox, Edge)
-
-Step-by-Step Installation
-Clone the Repository
-
-bash
-git clone https://github.com/yourusername/smart-campus-system.git
-cd smart-campus-system
-Setup Database
-
-Open phpMyAdmin (http://localhost/phpmyadmin)
-
-Create new database: smart_campus_db
-
-Import database/schema.sql
-
-Optional: Import database/dummy-data.sql for sample data
-
-Configure Database Connection
-Edit includes/config.php:
-
-php
-define('DB_HOST', 'localhost');
-define('DB_USER', 'root');
-define('DB_PASS', '');
-define('DB_NAME', 'smart_campus_db');
-Move Project to htdocs/www
-
-bash
-# For XAMPP on Windows
-copy smart-campus-system C:\xampp\htdocs\
-
-# For Linux
-sudo cp -r smart-campus-system /opt/lampp/htdocs/
-Start Services
-
-Start Apache
-
-Start MySQL
-
-Access the Application
-
-text
-http://localhost/smart-campus-system
-👥 Default Login Credentials
-Admin Account
-Username: admin@campus.edu
-
-Password: admin123
-
-Student Account
-Username: student@campus.edu
-
-Password: student123
-
-Note: Change passwords immediately after first login
 
 🗃️ Database Schema
 Main Tables
