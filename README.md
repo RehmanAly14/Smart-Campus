@@ -332,5 +332,4 @@ Contributors and testers
 📞 Support
 For support, email: support@campus.edu or create an issue in the GitHub repository.
 
-🌐 Live Demo
-Check out the live demo: [https://smart-campus.demo.edu](https://smartcampusuaf.wuaze.com/)
+
