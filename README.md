@@ -1,5 +1,5 @@
 🏫 Smart Campus Management System
-📋 Overview
+ Overview
 A comprehensive web-based platform designed to digitize and streamline campus operations, communication, and student engagement. This system replaces traditional manual processes with an integrated digital solution for educational institutions.
 
 ✨ Features
@@ -329,7 +329,5 @@ Open source community for tools and libraries
 
 Contributors and testers
 
-📞 Support
-For support, email: support@campus.edu or create an issue in the GitHub repository.
 
 
