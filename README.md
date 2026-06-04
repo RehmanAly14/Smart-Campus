@@ -1,5 +1,5 @@
 # Smart Campus Management System
- Overview
+## Overview
 A comprehensive web-based platform designed to digitize and streamline campus operations, communication, and student engagement. This system replaces traditional manual processes with an integrated digital solution for educational institutions.
 
 ### Features
