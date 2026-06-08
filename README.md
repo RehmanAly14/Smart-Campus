@@ -88,7 +88,7 @@ A comprehensive web-based platform designed to digitize and streamline campus op
 - Session Security - Regeneration and timeout
 - Input Validation - Server-side validation
 
-### 🧪 Testing
+###  Testing
 - Manual Testing Checklist
 - User authentication and authorization
 - Notice creation and display
