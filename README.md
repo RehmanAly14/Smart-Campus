@@ -113,7 +113,7 @@ A comprehensive web-based platform designed to digitize and streamline campus op
 
 # Seed database
 - php database/seed.php
-📄 License
+ License
 - This project is licensed under the MIT License - see the LICENSE file for details.
 
 
