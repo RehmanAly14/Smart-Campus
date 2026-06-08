@@ -116,7 +116,6 @@ A comprehensive web-based platform designed to digitize and streamline campus op
  License
 - This project is licensed under the MIT License - see the LICENSE file for details.
 
-
 ---
 
 ### Acknowledgments
@@ -124,6 +123,4 @@ A comprehensive web-based platform designed to digitize and streamline campus op
 - Web Programming course instructors
 - Open source community for tools and libraries
 - Contributors and testers
-
-
 
