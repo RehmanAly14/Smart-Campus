@@ -30,7 +30,7 @@ A comprehensive web-based platform designed to digitize and streamline campus op
 
 ---
 
-### 🏗️ Technology Stack
+###  Technology Stack
 ## Backend
 - PHP - Server-side scripting language
 - MySQL - Relational database management system
