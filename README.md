@@ -53,7 +53,7 @@ A comprehensive web-based platform designed to digitize and streamline campus op
 ### Git - Version control
 
 
-## 🚀 Installation Guide
+##  Installation Guide
 - Prerequisites
 - XAMPP or WAMP installed
 - PHP 7.4 or higher
