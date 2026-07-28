@@ -57,7 +57,7 @@ A comprehensive web-based platform designed to digitize and streamline campus op
 - Prerequisites
 - XAMPP or WAMP installed
 - PHP 7.4 or higher
-- MySQL 5.7 or higher
+- MySQL 5.7 
 
 ---
 
