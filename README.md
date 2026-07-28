@@ -80,7 +80,7 @@ A comprehensive web-based platform designed to digitize and streamline campus op
 
 ---
 
-### 🔒 Security Features
+###  Security Features
 - SQL Injection Prevention - Prepared statements
 - XSS Protection - Input sanitization and output escaping
 - CSRF Protection - Token-based validation
