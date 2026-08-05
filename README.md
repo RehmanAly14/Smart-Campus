@@ -118,7 +118,7 @@ A comprehensive web-based platform designed to digitize and streamline campus op
 
 ---
 
-### Acknowledgments
+## Acknowledgments
 - University professors for guidance
 - Web Programming course instructors
 - Open source community for tools and libraries
