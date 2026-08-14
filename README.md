@@ -122,5 +122,5 @@ A comprehensive web-based platform designed to digitize and streamline campus op
 - University professors for guidance
 - Web Programming course instructors
 - Open source community for tools and libraries
-- Contributors and testers
+
 
